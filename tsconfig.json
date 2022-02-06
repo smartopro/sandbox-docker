@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "noImplicitAny": true,
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "target": "es5",
+    "allowJs": true,
+    "moduleResolution": "node"
+  }
+}
